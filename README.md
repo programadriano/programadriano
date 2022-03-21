@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programadriano&color=yellow" alt="Profile views" /> </p>
 
 
-- 🔭 I’m Software Engineer - Microsoft MVP
+- I’m Software Engineer - Microsoft MVP
 
-- ▶️ I regularly post articles on [Medium - portuguese](https://programadriano.medium.com/) and in [dev.to - english](https://dev.to/programadriano/)
+- I regularly post articles on [Medium - portuguese](https://programadriano.medium.com/) and in [dev.to - english](https://dev.to/programadriano/)
 
 - I wrote a book about TypeScript: [Guia prático de TypeScript - portuguese](https://www.casadocodigo.com.br/products/livro-typescript)
 
