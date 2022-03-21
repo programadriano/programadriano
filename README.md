@@ -7,6 +7,7 @@
 
 - ▶️ I regularly post articles on [Medium - portuguese](https://programadriano.medium.com/) and in [dev.to - english](https://dev.to/programadriano/)
 
+- I wrote a book about TypeScript: [Guia prático de TypeScript - portuguese](https://www.casadocodigo.com.br/products/livro-typescript)
 
 <br><br>
 
