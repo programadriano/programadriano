@@ -41,7 +41,7 @@
 
 <br><br>
 
-##🙍🏼‍♂ &nbsp;Social Links
+🙍🏼‍♂ &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/tadriano-net/" target="_blank">
